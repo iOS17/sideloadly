@@ -14,6 +14,9 @@ You must know how to configure iCloud data settings to use Sideloadly.
 
 ## How to Use Sideloadly to sideload an iPA file
 To use Sideloadly, you must first install the tool on your PC or Mac. Go to the [SideloadlyChecker](https://xina15.com/tools/sideloadly/) Site to download the right one for your machine.
+
+### Sideload IPAs with Sideloadly
+
 Once Sideloadly is installed on your PC, you will be ready to Sideload the IPA files into your iDevice. See the following simple steps to learn the details:
 
 - Step 01: Open the Sideloadly tool from your PC
@@ -23,9 +26,21 @@ Once Sideloadly is installed on your PC, you will be ready to Sideload the IPA f
 
 ![Sideloadly iOS for iOS 18, iOS 17 and below installation Guide](https://github.com/user-attachments/assets/3f585b80-5192-43d7-8b08-c8f9dc731c58)
 
-- Tap on the Install button(The process will take some time)
-- Finally, check your iDevice App Library section to open the Installed iPA file. 
-- First, verify your iCloud certificate in the iPhone settings app. To do that, open the iPhone Settings App > General > VPN & Device Management > Tap on your iCloud Email address and Tap the Verify App button.
+- Step 05: Tap on the Install button(The process will take some time)
+- Step 06: Finally, could you check your iDevice App Library section to open the Installed iPA file? 
+- Step 07: Verify your iCloud certificate in the iPhone settings app. To do that, open the iPhone Settings App > General > VPN & Device Management > Tap on your iCloud Email address and Tap the Verify App button.
+
+## Alternative  / Online Alternative Tools for Sideloadly
+
+To sign an iPA file with the sideload tool, we need a PC, so most iOS users like to install iPA files instantly without using another device. So here are the best Sideloadly alternative tools:
+
+**### Esign Patcher**
+
+Esign Patcher: Esign Patcher is an iPA pulper signing tool installed online without using a PC. Also, you can sign an unlimited number of iPA files till the certificate is valid. You can use the esign patch app using your Apple ID and password, but you need to have an Apple Developer or Distributors Certificate to fix the revoke issues. ([Buy VIP Developer Certificate For free](https://udidmaster.com))
+
+
+
+
 
 ## Sideloadly Features
 - No Jailbreak required! Sideloadly was built for Non-Jailbroken devices in mind
@@ -38,7 +53,7 @@ Once Sideloadly is installed on your PC, you will be ready to Sideload the IPA f
 - Apple Silicon Sideloading Support! Use Sideloadly to install (unsupported) iOS apps to your M1/M2 Pro/Max/Ultra Mac! Works with Free/Paid Apple IDs & SIP enabled 
 - Apple TV (tvOS) Sideloading Support! Sideloadly can now sideload apps onto your Apple TV! NEW!
 - Drag & drop .IPA support
-- Change minimum iOS version required to run the app
+- Change the minimum iOS version required to run the app
 - Remove app/IPA restriction on supported devices
 - Change the app name that will appear on your home screen
 - Change the app icon that will appear on your home screen NEW!
