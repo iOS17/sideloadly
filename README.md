@@ -1,13 +1,13 @@
-# Sideloadly iOS:  Ultimate Guide: Sideloadly & Its Top Alternative - iOS 18.2, 18, 17
+# Sideloadly iOS: iOS 18.2, 18, 17 Ultimate Guide: Sideloadly & Its Top Alternative
 
 
-Sideloladly is one of the most valuable tools for sideloading iPA files into iPhone/iPad. The sideloadly app allows users to change the advanced sideloading settings through its easy-to-use interface(Change Bundle ID, App Name, Blank Logo fixing,etc..). Sideloadly comes only for Windows, Linux, and Mac OS as PC software, so you need a PC to sideload an IPA file. 
+Sideloadly is one of the most valuable tools for sideloading iPA files into iPhone/iPad. The app allows users to change the advanced sideloading settings through its easy-to-use interface(Change Bundle ID, App Name, Blank Logo fixing, etc..). Sideloadly is PC software only for Windows, Linux, and Mac OS, so you need a PC to sideload an IPA file. 
 
 Sideloadly may be popular, but like every other iPA sideloading tool, it has advantages and disadvantages. They include the following:
 
 ### Pros of using the Sideloadly Tool:
 
-Sideloadly is relatively easy to use. It allows you to download and install the iPA files with a single click.
+Sideloadly is relatively easy to use. It lets you download and install the iPA files with a single click.
 The Sideloadly is free to download.
 Changing the app bundle ID can be done with a single click.
 
@@ -35,6 +35,18 @@ Once Sideloadly is installed on your PC, you will be ready to Sideload the IPA f
 - Step 05: Tap on the Install button(The process will take some time)
 - Step 06: Finally, could you check your iDevice App Library section to open the Installed iPA file? 
 - Step 07: Verify your iCloud certificate in the iPhone settings app. To do that, open the iPhone Settings App > General > VPN & Device Management > Tap on your iCloud Email address and Tap the Verify App button.
+
+## Sideloadly Compatible iOS Versions:
+
+- iOS 18/ iOS 18.1, iOS 18.2
+- iOS 17/iOS 17.1/iOS 17.2 / iOS 17.3/iOS 17.4/ iOS 17.4/ iOS 17.5
+- iOS 16/iOS 16.1/iOS 16.2/iOS 16.3/iOS 16.4 / iOS 16.4.1/iOS 16.5 / iOS 16.6
+- iOS 15/iOS 15.1/iOS 15.2/iOS 15.3/iOS 15.4/iOS 15.5/iOS 15.6
+- iOS 14/ iOS 14.1/ iOS 14.2/ iOS 14.3/ iOS 14.4/ iOS 14.5/ iOS 14.6/ iOS 14.7/ iOS 14.8/
+- iOS 13.5.5beta, iOS 13.5, iOS 13.4.1, and iOS 13.4
+- iOS 13.3.1 / iOS 13.3 / iOS 13.2.3 / iOS 13.2 / iOS 13.1.3 / iOS 13.1.2 / iOS 13.1.1 / iOS 13.1 / iOS 13
+- iOS 12.4.8/iOS 12.4.1 / iOS 12.4 / iOS 12.2 / iOS 12.1.4 / iOS 12.1.3 / iOS 12.1.2 / iOS 12.1 / iOS 12.0.1 / iOS 12
+- iOS 11.4.1 / iOS 11.4 / iOS 11.3.1 / iOS 11.3 / iOS 11.2.6 / iOS 11.2.5 / iOS 11.2.2 / iOS 11.2.1 / iOS 11.2 / iOS 11.1.2 / iOS 11.1.1 / iOS 11.1 / iOS 11
 
 ## Alternative  / Online Alternative Tools for Sideloadly
 
