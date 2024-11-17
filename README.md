@@ -1,4 +1,4 @@
-# Sideloadly iOS: iOS 18.2, 18, 17 Ultimate Guide: Sideloadly & Its Top Alternative
+# Sideloadly iOS: iOS 18.2 beta 2, 18, 17 Ultimate Guide: Sideloadly & Its Top Alternative
 
 
 Sideloadly is one of the most valuable tools for sideloading iPA files into iPhone/iPad. The app allows users to change the advanced sideloading settings through its easy-to-use interface(Change Bundle ID, App Name, Blank Logo fixing, etc..). Sideloadly is PC software only for Windows, Linux, and Mac OS, so you need a PC to sideload an IPA file. 
@@ -47,6 +47,23 @@ Once Sideloadly is installed on your PC, you will be ready to Sideload the IPA f
 - iOS 13.3.1 / iOS 13.3 / iOS 13.2.3 / iOS 13.2 / iOS 13.1.3 / iOS 13.1.2 / iOS 13.1.1 / iOS 13.1 / iOS 13
 - iOS 12.4.8/iOS 12.4.1 / iOS 12.4 / iOS 12.2 / iOS 12.1.4 / iOS 12.1.3 / iOS 12.1.2 / iOS 12.1 / iOS 12.0.1 / iOS 12
 - iOS 11.4.1 / iOS 11.4 / iOS 11.3.1 / iOS 11.3 / iOS 11.2.6 / iOS 11.2.5 / iOS 11.2.2 / iOS 11.2.1 / iOS 11.2 / iOS 11.1.2 / iOS 11.1.1 / iOS 11.1 / iOS 11
+
+## Sideloadly Compatible iPhone/iPad Models:
+
+iPhone 5, iPhone 5C(A6 -Chip)
+iPhone 5S, iPad Air, iPad Mini 2, iPad Mini 3(A7 - Chip)
+iPhone 6, iPhone 6 Plus, iPad Mini 4(A8 - Chip)
+iPhone 6S, iPhone 6S Plus, iPhone SE (A9 - Chip)
+iPhone 7 and iPhone 7 Plus(A10 - Chip)
+iPhone 8, iPhone 8 Plus, and iPhone X (A11 - Chip)
+iPhone XS, iPhone XS Max, iPhone XR (A12 - Chip)
+iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max (A13 - Chip)
+iPhone 12, iPhone 12 Mini, iPhone 12 Pro, iPhone 12 Pro Max (A1 - Chip)
+iPhone 13 and 13 Mini, iPhone 13 Pro and 13 Pro Max, iPhone 14, iPhone 14 Plus(A15- Chip)
+iPhone 14 Pro and iPhone 14 Pro Max (A16 - Chip)
+iPhone 15 Pro and iPhone 15 Pro Max (A17- Chip)
+
+
 
 ## Alternative  / Online Alternative Tools for Sideloadly
 
