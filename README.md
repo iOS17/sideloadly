@@ -1,7 +1,28 @@
-# Sideloadly iOS: iOS 18.2 beta 2, 18, 17 Ultimate Guide: Sideloadly & Its Top Alternative
+# Sideloadly iOS: iOS 18.2 beta 4, 18, 17.6.1 Ultimate Guide: Sideloadly & Its Top Alternative
 
 
 Sideloadly is one of the most valuable tools for sideloading iPA files into iPhone/iPad. The app allows users to change the advanced sideloading settings through its easy-to-use interface(Change Bundle ID, App Name, Blank Logo fixing, etc..). Sideloadly is PC software only for Windows, Linux, and Mac OS, so you need a PC to sideload an IPA file. 
+
+## Download Sideloadly Tool
+
+You can download Sideloadly on your Windows or Mac PC. For Windows, users need Windows 7 or higher. For Mac, it requires macOS 10.12 Sierra and higher. Apple Silicon Mac M1/M2 Pro/Max/Ultra Sideloading is Supported.
+
+> Important Note for Windows users
+```
+Windows users, please make sure you have the web version of iTunes & iCloud installed. You must uninstall Microsoft Store iTunes & iCloud (if present), then install the non-Microsoft Store version from:
+```
+> [iTunes x64](https://www.apple.com/itunes/download/win64) - [iTunes x32](https://www.apple.com/itunes/download/win32)
+> [iCloud web Apple download link](https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe)
+
+
+
+**Download Sideloadly**
+
+- [Download Sideloadly For Windows 64-bit Download ](https://sideloadly.io/SideloadlySetup64.exe)
+- [Download Sideloadly For Windows 32-bit Download ](https://sideloadly.io/SideloadlySetup32.exe)
+
+- [Download Sideloadly For macOS. Download](https://sideloadly.io/SideloadlySetup.dmg)
+
 
 Sideloadly may be popular, but like every other iPA sideloading tool, it has advantages and disadvantages. They include the following:
 
@@ -110,7 +131,8 @@ Esign Patcher: Esign Patcher is an Ondevice iPA signing tool, you can install it
 - Light/Dark mode for macOS
 - More features to be added based on community suggestion
 
-- 
+> Read More
+>  [i4Tools iDevice Storage management tool](https://github.com/iOS17/i4Tools)
 
 
 
