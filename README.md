@@ -1,4 +1,4 @@
-# Sideloadly iOS: iOS 18.2 beta 4, 18, 17.6.1 Ultimate Guide: Sideloadly & Its Top Alternative
+# Sideloadly v 55.0.3 iOS: iOS 18.3, 18.2, 18, 17.6.1 Ultimate Guide: Sideloadly & Its Top Alternative
 
 
 Sideloadly is one of the most valuable tools for sideloading iPA files into iPhone/iPad. The app allows users to change the advanced sideloading settings through its easy-to-use interface(Change Bundle ID, App Name, Blank Logo fixing, etc..). Sideloadly is PC software only for Windows, Linux, and Mac OS, so you need a PC to sideload an IPA file. 
@@ -59,7 +59,7 @@ Once Sideloadly is installed on your PC, you will be ready to Sideload the IPA f
 
 ## Sideloadly Compatible iOS Versions:
 
-- iOS 18/ iOS 18.1, iOS 18.2
+- iOS 18/ iOS 18.1, iOS 18.2, iOS 18.3 Beta
 - iOS 17/iOS 17.1/iOS 17.2 / iOS 17.3/iOS 17.4/ iOS 17.4/ iOS 17.5
 - iOS 16/iOS 16.1/iOS 16.2/iOS 16.3/iOS 16.4 / iOS 16.4.1/iOS 16.5 / iOS 16.6
 - iOS 15/iOS 15.1/iOS 15.2/iOS 15.3/iOS 15.4/iOS 15.5/iOS 15.6
@@ -97,7 +97,7 @@ Esign Patcher: Esign Patcher is an Ondevice iPA signing tool, you can install it
 **### 9 Installer**
 
 
-9 Install is an online iOS app signer and Installer tool. This app provides nine apps that most iPhone users use. After getting the Nine Installer membership, users can download and install iPA files with the 9 Signer app. This tool doesn't have a 10-app limitation like the Sideloadly tool, and you don't need a PC to sign and install the iPA apps. 
+9 Install is an online iOS app signer and Installer tool. This app provides nine apps that most iPhone users use. After gaining the Nine Installer membership, users can download and install iPA files using the 9 Signer app. This tool doesn't have a 10-app limitation like the Sideloadly tool, and you don't need a PC to sign and install the iPA apps. 
 
 [Download 9 Install Tool  ](https://zeejb.com/9-install%D0%B5r/)
 
@@ -133,6 +133,9 @@ Esign Patcher: Esign Patcher is an Ondevice iPA signing tool, you can install it
 
 > Read More
 >  [i4Tools iDevice Storage management tool](https://github.com/iOS17/i4Tools)
+
+
+Fixes: Fix addresses issues from v0.55.0.
 
 
 
