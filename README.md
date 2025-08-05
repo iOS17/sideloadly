@@ -1,7 +1,7 @@
-# Sideloadly v 55.0.3 iOS: iOS 18.3, 18.2, 18, 17.6.1 Ultimate Guide: Sideloadly & Its Top Alternative
+# Sideloadly v 0.55.0 iOS 26: iOS 18.6, 18.5 - 18, 17.6.1 Ultimate Guide: Sideloadly & Its Top Alternative
 
 
-Sideloadly is one of the most valuable tools for sideloading iPA files into iPhone/iPad. The app allows users to change the advanced sideloading settings through its easy-to-use interface(Change Bundle ID, App Name, Blank Logo fixing, etc..). Sideloadly is PC software only for Windows, Linux, and Mac OS, so you need a PC to sideload an IPA file. 
+Sideloadly is one of the most valuable tools for sideloading IPA files into an iPhone/iPad. The app allows users to change the advanced sideloading settings through its easy-to-use interface(Change Bundle ID, App Name, Blank Logo fixing, etc). Sideloadly is a PC software only for Windows, Linux, and Mac OS, so you need a PC to sideload an IPA file. 
 
 ## Download Sideloadly Tool
 
@@ -21,15 +21,15 @@ Windows users, please make sure you have the web version of iTunes & iCloud inst
 - [Download Sideloadly For Windows 64-bit Download ](https://sideloadly.io/SideloadlySetup64.exe)
 - [Download Sideloadly For Windows 32-bit Download ](https://sideloadly.io/SideloadlySetup32.exe)
 
-- [Download Sideloadly For macOS. Download](https://sideloadly.io/SideloadlySetup.dmg)
+- [Download Sideloadly for macOS. Download](https://sideloadly.io/SideloadlySetup.dmg)
 
 
-Sideloadly may be popular, but like every other iPA sideloading tool, it has advantages and disadvantages. They include the following:
+Sideloadly may be popular, but like every other IPA sideloading tool, it has advantages and disadvantages. They include the following:
 
 ### Pros of using the Sideloadly Tool:
 
-Sideloadly is relatively easy to use. It lets you download and install the iPA files with a single click.
-The Sideloadly is free to download.
+Sideloadly is relatively easy to use. It lets you download and install the IPA files with a single click.
+Sideloadly is free to download.
 Changing the app bundle ID can be done with a single click.
 
 
@@ -39,7 +39,7 @@ You have to install Sideloadly on a PC to use iPA sideloading.
 You must know how to configure iCloud data settings to use Sideloadly.
 7-day app revoking issue.
 
-## How to Use Sideloadly to sideload an iPA file
+## How to Use Sideloadly to sideload an IPA file
 To use Sideloadly, you must first install the tool on your PC or Mac. Go to the [SideloadlyChecker](https://xina15.com/tools/sideloadly/) Site to download the right one for your machine.
 
 ### Sideload IPAs with Sideloadly
@@ -48,18 +48,19 @@ Once Sideloadly is installed on your PC, you will be ready to Sideload the IPA f
 
 - Step 01: Open the Sideloadly tool from your PC
 - Step 02: [Download Any iPA file (Download Free Unlimited IPA files)](https://ipa.zeejb.com/) you need to install on your iDevice. 
-- Step 03: Connect your iDevice to your PC using a USB lightning cable.
-- Step 04: Drag & Drop or Open the Downloaded iPA file in the Sideloadly tool
+- Step 03: Connect your iDevice to your PC using a USB Lightning cable.
+- Step 04: Drag & Drop or Open the Downloaded IPA file in the Sideloadly tool
 
 ![Sideloadly iOS for iOS 18, iOS 17 and below installation Guide](https://github.com/user-attachments/assets/3f585b80-5192-43d7-8b08-c8f9dc731c58)
 
 - Step 05: Tap on the Install button(The process will take some time)
-- Step 06: Finally, could you check your iDevice App Library section to open the Installed iPA file? 
+- Step 06: Finally, could you check your iDevice App Library section to open the installed IPA file? 
 - Step 07: Verify your iCloud certificate in the iPhone settings app. To do that, open the iPhone Settings App > General > VPN & Device Management > Tap on your iCloud Email address and Tap the Verify App button.
 
 ## Sideloadly Compatible iOS Versions:
 
-- iOS 18/ iOS 18.1, iOS 18.2, iOS 18.3 Beta
+- iOS 26
+- iOS 18/ iOS 18.1, iOS 18.2, iOS 18.3, iOS 18.4, iOS 18.5, iOS 18.6
 - iOS 17/iOS 17.1/iOS 17.2 / iOS 17.3/iOS 17.4/ iOS 17.4/ iOS 17.5
 - iOS 16/iOS 16.1/iOS 16.2/iOS 16.3/iOS 16.4 / iOS 16.4.1/iOS 16.5 / iOS 16.6
 - iOS 15/iOS 15.1/iOS 15.2/iOS 15.3/iOS 15.4/iOS 15.5/iOS 15.6
@@ -88,11 +89,11 @@ iPhone 15 Pro and iPhone 15 Pro Max (A17- Chip)
 
 ## Alternative  / Online Alternative Tools for Sideloadly
 
-To sign an iPA file with the sideload tool, we need a PC, so most iOS users like to install iPA files instantly without using another device. So here are the best Sideloadly alternative tools:
+To sign an IPA file with the sideload tool, we need a PC, so most iOS users like to install IPA files instantly without using another device. So here are the best Sideloadly alternative tools:
 
 **### Esign Patcher**
 
-Esign Patcher: Esign Patcher is an Ondevice iPA signing tool, you can install it online without using a PC. Also, you can sign an unlimited number of iPA files till the certificate is valid. You can use the esign patch app with your Apple ID and password, but you need an Apple Developer or Distributors Certificate to fix the revoke issues. ([Buy VIP Developer Certificate For free](https://udidmaster.com))
+Esign Patcher: Esign Patcher is an Ondevice iPA signing tool; you can install it without using a PC. Also, you can sign an unlimited number of IPA files till the certificate is valid. You can use the esign patch app with your Apple ID and password, but you need an Apple Developer or Distributor's Certificate to fix the revocation issues. ([Buy VIP Developer Certificate For free](https://udidmaster.com))
 
 **### 9 Installer**
 
@@ -126,16 +127,27 @@ Esign Patcher: Esign Patcher is an Ondevice iPA signing tool, you can install it
 - URI Scheme to easily download and sideload an IPA directly from the web
 - Installation logs for easier troubleshooting
 - Device System Logs viewer for troubleshooting general device or app installation issues
-- Ability to hide sensitive information to make it easier to take screenshots, record tutorial videos or share your logs for troubleshooting
+- Ability to hide sensitive information to make it easier to take screenshots, record tutorial videos, or share your logs for troubleshooting
 - Ability to inject multiple .dylib, .deb, .framework & .bundle to your IPA. Including Cydia Substrate & Substitute framework support for Non-Jailbroken! 
 - Light/Dark mode for macOS
-- More features to be added based on community suggestion
+- More features to be added based on community suggestions
 
 > Read More
 >  [i4Tools iDevice Storage management tool](https://github.com/iOS17/i4Tools)
 
 
 Fixes: Fix addresses issues from v0.55.0.
+ Faster IPA processing, signing, and uploading: We’ve made speed improvements to make the sideloading process faster than ever!
+- App ID tracking: Sideloadly will now display the number of available (weekly) App IDs remaining for each Apple ID.
+- Progress indicators: Signing, uploading, and installing progress will now be shown in percentages.
+- Automatic retries: Sideloadly will automatically retry up to four times on failed attempts, then prompt the user to continue if the issue persists.
+- App refresh display: Now, you can see which app was refreshed on which device.
+- Resolved an issue where certain IPAs failed to install due to multiple PlugIns and Extensions.
+- Fixed the recurring LOCKDOWN_E_MUX error that appeared if an IPA took too long to process.
+- Corrected a verification code pop-up issue.
+- Fixed a crash issue on older versions of macOS (requires reinstalling Sideloadly to resolve).
+- Improved installation logs for greater clarity.
+- Various other bug fixes and improvements.
 
 
 
